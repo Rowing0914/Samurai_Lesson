@@ -1,0 +1,1 @@
+2018-09-22 13:56:00 INFO     hello world
